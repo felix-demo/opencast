@@ -30,12 +30,12 @@ examples:
 
 | Configuration                            | Compose file                                                                                                                    |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| all-in-one + H2                          | `https://raw.githubusercontent.com/opencast/opencast-docker/<version>/docker-compose/docker-compose.allinone.h2.yml`            |
-| all-in-one + H2 + pyCA                   | `https://raw.githubusercontent.com/opencast/opencast-docker/<version>/docker-compose/docker-compose.allinone.h2+pyca.yml`       |
-| all-in-one + MariaDB                     | `https://raw.githubusercontent.com/opencast/opencast-docker/<version>/docker-compose/docker-compose.allinone.mariadb.yml`       |
-| all-in-one + PostgreSQL                  | `https://raw.githubusercontent.com/opencast/opencast-docker/<version>/docker-compose/docker-compose.allinone.postgresql.yml`    |
-| admin, presentation, worker + MariaDB    | `https://raw.githubusercontent.com/opencast/opencast-docker/<version>/docker-compose/docker-compose.multiserver.mariadb.yml`    |
-| admin, presentation, worker + PostgreSQL | `https://raw.githubusercontent.com/opencast/opencast-docker/<version>/docker-compose/docker-compose.multiserver.postgresql.yml` |
+| all-in-one + H2                                               | `https://raw.githubusercontent.com/opencast/opencast-docker/<version>/docker-compose/docker-compose.allinone.h2.yml`            |
+| all-in-one + H2 + [pyCA](https://github.com/opencast/pyCA)    | `https://raw.githubusercontent.com/opencast/opencast-docker/<version>/docker-compose/docker-compose.allinone.h2+pyca.yml`       |
+| all-in-one + MariaDB                                          | `https://raw.githubusercontent.com/opencast/opencast-docker/<version>/docker-compose/docker-compose.allinone.mariadb.yml`       |
+| all-in-one + PostgreSQL                                       | `https://raw.githubusercontent.com/opencast/opencast-docker/<version>/docker-compose/docker-compose.allinone.postgresql.yml`    |
+| admin, presentation, worker + MariaDB                         | `https://raw.githubusercontent.com/opencast/opencast-docker/<version>/docker-compose/docker-compose.multiserver.mariadb.yml`    |
+| admin, presentation, worker + PostgreSQL                      | `https://raw.githubusercontent.com/opencast/opencast-docker/<version>/docker-compose/docker-compose.multiserver.postgresql.yml` |
 
 Choose and download a configuration:
 
